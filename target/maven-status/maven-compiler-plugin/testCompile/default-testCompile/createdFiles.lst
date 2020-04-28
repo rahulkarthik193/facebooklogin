@@ -1,0 +1,9 @@
+com\facebooklogin\testCases\Baseclass.class
+com\facebooklogin\utilities\ReadConfig.class
+com\facebooklogin\utilities\XLUtils.class
+com\facebooklogin\pageObjects\AddCustomerPage.class
+com\facebooklogin\testCases\TC_logintestDDT_002.class
+com\facebooklogin\utilities\Reporting.class
+com\facebooklogin\testCases\TC_logintest_001.class
+com\facebooklogin\pageObjects\loginpage.class
+com\facebooklogin\testCases\TC_AddCustomerTest_003.class
